@@ -1,0 +1,145 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - MyWebsite</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            line-height: 1.6;
+            color: #333;
+        }
+
+        header {
+            background: #0077cc;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 50px;
+        }
+
+        .logo {
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+
+            .nav-links li a {
+                color: white;
+                text-decoration: none;
+                transition: color 0.3s;
+            }
+
+                .nav-links li a:hover {
+                    color: #ffdd57;
+                }
+
+        .contact {
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+            .contact h1 {
+                font-size: 36px;
+                margin-bottom: 20px;
+            }
+
+            .contact p {
+                max-width: 600px;
+                margin: 0 auto 30px auto;
+                font-size: 18px;
+            }
+
+            .contact form {
+                max-width: 400px;
+                margin: 0 auto;
+                display: flex;
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .contact input, .contact textarea {
+                padding: 10px;
+                font-size: 16px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+            }
+
+            .contact button {
+                padding: 12px;
+                font-size: 16px;
+                background: #0077cc;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+
+                .contact button:hover {
+                    background: #005fa3;
+                }
+
+        footer {
+            background: #0077cc;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    
+    <header>
+        <nav>
+            <div class="logo">MyWebsite</div>
+            <ul class="nav-links">
+                <li><a href="Index.cshtml">Home</a></li>
+                <li><a href="About.cshtml">About</a></li>
+                <li><a href="Contact.cshtml">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="contact">
+            <h1>Contact Us</h1>
+            <p>Have questions or want to work with us? Fill out the form below and we will get back to you.</p>
+            <form>
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Your Email" required>
+                <textarea placeholder="Your Message" rows="5" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 MyWebsite. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+

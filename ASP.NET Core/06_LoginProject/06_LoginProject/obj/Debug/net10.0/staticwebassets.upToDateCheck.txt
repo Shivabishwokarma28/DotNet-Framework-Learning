@@ -1,0 +1,2 @@
+wwwroot\css\login.css
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\ASP.NET CORE\06_LoginProject\06_LoginProject\wwwroot\css\login.css

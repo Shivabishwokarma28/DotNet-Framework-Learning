@@ -1,0 +1,53 @@
+﻿@model _23_DropDownList.Models.Employee
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form class="d-grid" asp-controller="Home" asp-action="Index" method="post">
+                <label asp-for="Name">Enter Name</label>
+                <input asp-for="Name" placeholder="Employee Name" class="form-control" />
+                <br />GetEnumSelectList
+                <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+                    <option value=""> Select Gender</option>
+                </select>
+                <br />
+                <input asp-for="Age" placeholder="Age" class="form-control" />
+                <br/>
+                <input  asp-for="Designation" placeholder="Designation" class="form-control" />
+                <br />
+                <input asp-for="Salary" placeholder="Salary" class="form-control" />
+                <br />
+                <label>
+                    Married:
+                </label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="Yes"/>
+                    <label class="form-check-label" for="flexRadioDefault1">Yes</label>
+
+
+                </div>
+                <br />
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="No" />
+                    <label class="form-check-label" for="flexRadioDefault1"> No</label>
+
+
+                </div>
+                <br />
+                <textarea asp-for="Description" class="form-control" placeholder="Description" rows="5">
+
+                </textarea>
+                <br /><br />
+                <input type="submit" value="Submit" class="btn btn-outline-primary btn-block" />
+            </form>
+        </div>
+    </div>
+
+</div>

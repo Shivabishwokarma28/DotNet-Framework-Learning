@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\migrations\\20260120075333_codeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\migrations\\20260120075333_codeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\28_codefirstapproach\\28_codefirstapproach\\migrations\\20260120074829_codefirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868A7E05-1D55-EC7D-DF88-087B909B382B}|28_CodeFirstApproach\\28_CodeFirstApproach.csproj|solutionrelative:28_codefirstapproach\\migrations\\20260120074829_codefirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "28_CodeFirstApproach\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAABAPQgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T17:19:17.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "28_CodeFirstApproach\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAACAMjMzMzMbwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T16:58:52.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "28_CodeFirstApproach\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAABoAAACAMDMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T15:43:44.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "28_CodeFirstApproach\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAgLjMzMzMrwBEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T11:19:12.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "28_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T08:08:42.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "28_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGUAAABA/////989wFcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:03:58.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260120075333_CodeUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Migrations\\20260120075333_CodeUpdate.cs",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Migrations\\20260120075333_CodeUpdate.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Migrations\\20260120075333_CodeUpdate.cs",
+              "RelativeToolTip": "28_CodeFirstApproach\\Migrations\\20260120075333_CodeUpdate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABSPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:53:34.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260120074829_CodeFirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Migrations\\20260120074829_CodeFirstMigration.cs",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Migrations\\20260120074829_CodeFirstMigration.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Migrations\\20260120074829_CodeFirstMigration.cs",
+              "RelativeToolTip": "28_CodeFirstApproach\\Migrations\\20260120074829_CodeFirstMigration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABsPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:48:30.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Program.cs",
+              "RelativeToolTip": "28_CodeFirstApproach\\Program.cs",
+              "ViewState": "AgIAAAAAAABAZmZmZmYkwAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:40:03.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\appsettings.Development.json",
+              "RelativeToolTip": "28_CodeFirstApproach\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-20T07:21:09.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\appsettings.json",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\appsettings.json",
+              "RelativeToolTip": "28_CodeFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-20T07:21:00.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "28_CodeFirstApproach\\Models\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:21:13.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "28_CodeFirstApproach\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\28_CodeFirstApproach\\28_CodeFirstApproach\\Models\\Student.cs",
+              "RelativeToolTip": "28_CodeFirstApproach\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBxPRUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:14:44.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

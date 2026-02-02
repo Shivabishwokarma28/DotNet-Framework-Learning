@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Home/Shared/_Layout.cshtml";
+
+}
+<h2>Home page</h2>
+<h3>This is my home page</h3>
+@*
+<h1> Current date and time is @DateTime.Now</h1>
+
+<h1> Current Year is @DateTime.Now.Year </h1>
+@{
+    var St_Name = "Luffy";
+    var St_Id = 1000;
+}
+
+<h3>Student Name is @St_Name</h3>
+<h3>Student Id is @St_Id</h3>
+<h2>Enter Your Atm pin:</h2>
+@{
+    var pin = 122;
+    if(pin==122)
+    {
+        <h2>Login to atm</h2>
+    }
+    else
+    {
+        <h2>Incorrect pin</h2>
+    }
+}
+@{
+    var sum = 0;
+    for (int i = 1; i <=10; i++)
+    {
+        sum += i;
+      
+    }
+    <h3>Sum of first 10 numbers is @sum</h3>
+}
+@{
+    List<string> l1 = new List<string>();
+    l1.Add("Shiva");
+    l1.Add("Luffy");
+    l1.Add("Isagi");
+    foreach(var a in l1)
+    {
+        <h4>@a</h4>
+    }
+}
+*@

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+   
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/twitter-bootstrap/css/form.css" />
+
+    <link href="~/twitter-bootstrap/css/headerfooter.css" rel="stylesheet" />
+</head>
+<body>
+   
+        <header class="site-header">
+            <div class="logo">My Website</div>
+            <nav>
+                <ul class="nav-links">
+                    <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li><a asp-controller="Home" asp-action="About">About</a></li>
+                    <li><a asp-controller="Home" asp-action="Contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+    <div>
+        @RenderBody()
+    </div>
+    <footer class="site-footer">
+        <p>© 2026 My Website. All rights reserved.</p>
+        <p>CEO: <strong>Shiva Bishwokarma</strong></p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,93 @@
+﻿
+
+@{
+    ViewData["Title"] = "Dashboard";
+    var user = Context.Session.GetString("UserSession");
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial;
+            background: #f0f2f5;
+        }
+
+        .navbar {
+            height: 55px;
+            background: #1877f2;
+            color: white;
+            display: flex;
+            align-items: center;
+            padding: 0 20px;
+            justify-content: space-between;
+        }
+
+        .container {
+            display: flex;
+            margin-top: 15px;
+        }
+
+        .sidebar, .rightbar {
+            width: 25%;
+            padding: 15px;
+        }
+
+        .feed {
+            width: 50%;
+            padding: 15px;
+        }
+
+        .box {
+            background: white;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navbar">
+        <h2>facebook</h2>
+        <div>
+            Welcome, @user |
+            <a asp-action="Logout" style="color:white">Logout</a>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="sidebar">
+            <div class="box">Profile</div>
+            <div class="box">Friends</div>
+            <div class="box">Photos</div>
+        </div>
+
+        <div class="feed">
+            <div class="box">
+                <b>@user</b>
+                <p>This is your first post</p>
+            </div>
+            <div class="box">
+                <b>John Doe</b>
+                <p>Hello from Facebook style dashboard</p>
+            </div>
+        </div>
+
+        <div class="rightbar">
+            <div class="box">
+                <b>Contacts</b>
+                <p>Ram</p>
+                <p>Shyam</p>
+                <p>Hari</p>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
+

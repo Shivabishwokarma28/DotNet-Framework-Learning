@@ -1,0 +1,111 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - MyWebsite</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            line-height: 1.6;
+            color: #333;
+        }
+
+        header {
+            background: #0077cc;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 50px;
+        }
+
+        .logo {
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+
+            .nav-links li a {
+                color: white;
+                text-decoration: none;
+                transition: color 0.3s;
+            }
+
+                .nav-links li a:hover {
+                    color: #ffdd57;
+                }
+
+        .about {
+            padding: 60px 20px;
+            text-align: center;
+            background: #f4f4f4;
+        }
+
+            .about h1 {
+                font-size: 36px;
+                margin-bottom: 20px;
+            }
+
+            .about p {
+                max-width: 600px;
+                margin: 0 auto;
+                font-size: 18px;
+            }
+
+        footer {
+            background: #0077cc;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <header>
+            <nav>
+                <div class="logo">MyWebsite</div>
+                <ul class="nav-links">
+                    <li><a href="Index.cshtml">Home</a></li>
+                    <li><a href="About.cshtml">About</a></li>
+                    <li><a href="Contact.cshtml">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+    <main>
+        <section class="about">
+            <h1>About Us</h1>
+            <p>We create modern, responsive websites for individuals and businesses. Quality design meets functionality here. Learn more about what we do and our mission to deliver exceptional websites.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 MyWebsite. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\06_loginproject\\06_loginproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|solutionrelative:06_loginproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\06_loginproject\\06_loginproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|solutionrelative:06_loginproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\06_loginproject\\06_loginproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|solutionrelative:06_loginproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\06_loginproject\\06_loginproject\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|solutionrelative:06_loginproject\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\06_loginproject\\06_loginproject\\06_loginproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7339739-C6C9-47BF-A802-79E20A26854A}|06_LoginProject\\06_LoginProject.csproj|solutionrelative:06_loginproject\\06_loginproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "06_LoginProject\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "06_LoginProject\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-15T06:19:25.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "06_LoginProject",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\06_LoginProject.csproj",
+              "RelativeDocumentMoniker": "06_LoginProject\\06_LoginProject.csproj",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\06_LoginProject.csproj",
+              "RelativeToolTip": "06_LoginProject\\06_LoginProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T06:17:04.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "06_LoginProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "06_LoginProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAABEPQoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T06:11:36.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "06_LoginProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "06_LoginProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:02:03.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\Program.cs",
+              "RelativeDocumentMoniker": "06_LoginProject\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\06_LoginProject\\06_LoginProject\\Program.cs",
+              "RelativeToolTip": "06_LoginProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:00:59.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor accessor
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About</h1>
+<h2>@ViewBag.Data</h2>
+Direct View session
+<h3> @accessor.HttpContext.Session.GetString("Session")</h3>
+<h4>@TempData["SessionId"]</h4>
+

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\37_ASPCoreWithjQuery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72E893-DF4B-4AAC-8157-222169E97041}|37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\37_aspcorewithjquery\\37_aspcorewithjquery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F72E893-DF4B-4AAC-8157-222169E97041}|37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery.csproj|solutionrelative:37_aspcorewithjquery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72E893-DF4B-4AAC-8157-222169E97041}|37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\37_aspcorewithjquery\\37_aspcorewithjquery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8F72E893-DF4B-4AAC-8157-222169E97041}|37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery.csproj|solutionrelative:37_aspcorewithjquery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72E893-DF4B-4AAC-8157-222169E97041}|37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\37_aspcorewithjquery\\37_aspcorewithjquery\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8F72E893-DF4B-4AAC-8157-222169E97041}|37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery.csproj|solutionrelative:37_aspcorewithjquery\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72E893-DF4B-4AAC-8157-222169E97041}|37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\37_aspcorewithjquery\\37_aspcorewithjquery\\wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F72E893-DF4B-4AAC-8157-222169E97041}|37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery.csproj|solutionrelative:37_aspcorewithjquery\\wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "37_ASPCoreWithjQuery\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "37_ASPCoreWithjQuery\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAMTMzMzMLwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T08:25:32.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-26T08:24:21.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-26T08:23:51.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "RelativeDocumentMoniker": "37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\37_ASPCoreWithjQuery\\37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "RelativeToolTip": "37_ASPCoreWithjQuery\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-26T08:23:41.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

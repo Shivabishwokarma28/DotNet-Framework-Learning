@@ -1,0 +1,47 @@
+﻿@model List<Teacher>
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About</h1>
+
+<style>
+    table {
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        border: 1px solid gray;
+        padding: 12px 25px;
+    }
+</style>
+<table>
+    <caption>Teacher</caption>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+    </tr>
+
+    @{
+
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <h2>@item.Id</h2>
+                </td>
+
+                <td>
+                    <h2>@item.Name</h2>
+                </td>
+
+                <td>
+                    <h2>@(item.T_Address)</h2>
+                </td>
+            </tr>
+        }
+    }
+
+</table>

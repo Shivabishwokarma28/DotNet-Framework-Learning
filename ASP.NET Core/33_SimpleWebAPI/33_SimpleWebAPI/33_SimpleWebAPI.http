@@ -1,0 +1,6 @@
+@_33_SimpleWebAPI_HostAddress = http://localhost:5087
+
+GET {{_33_SimpleWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,68 @@
+﻿/* Center the form in the page */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 150vh; /* takes most of the screen height */
+    padding: 150px;
+}
+
+/* Optional row wrapper */
+.row {
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Column wrapper */
+.col-sm-2 {
+    width: 100%;
+    max-width: 420px;
+    background: #fff;
+    padding: 50px 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    min-height: 320px; /* 👈 increase this */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Inputs styling */
+.form-control {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 40px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+    .form-control:focus {
+        outline: none;
+        border-color: #007bff;
+        box-shadow: 0 0 5px rgba(0,123,255,0.5);
+    }
+
+/* Submit button */
+.btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background: #007bff;
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+    .btn:hover {
+        background: #0056b3;
+    }
+
+/* Optional: form heading inside column */
+.col-sm-2 h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}

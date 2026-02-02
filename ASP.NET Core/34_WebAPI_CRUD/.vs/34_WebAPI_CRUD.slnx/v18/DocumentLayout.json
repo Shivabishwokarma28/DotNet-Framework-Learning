@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\34_webapi_crud\\34_webapi_crud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|solutionrelative:34_webapi_crud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\34_webapi_crud\\34_webapi_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|solutionrelative:34_webapi_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\34_webapi_crud\\34_webapi_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|solutionrelative:34_webapi_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\34_webapi_crud\\34_webapi_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|solutionrelative:34_webapi_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\34_webapi_crud\\34_webapi_crud\\models\\schoolmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0C5F0-3869-744A-FD40-55E87D408BDE}|34_WebAPI_CRUD\\34_WebAPI_CRUD.csproj|solutionrelative:34_webapi_crud\\models\\schoolmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "34_WebAPI_CRUD\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\Models\\Student.cs",
+              "RelativeToolTip": "34_WebAPI_CRUD\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAA+v//////vwsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T07:19:16.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "34_WebAPI_CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\Program.cs",
+              "RelativeToolTip": "34_WebAPI_CRUD\\Program.cs",
+              "ViewState": "AgIAAAYAAABAMTMzMzMbwA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T06:38:24.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "34_WebAPI_CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\appsettings.json",
+              "RelativeToolTip": "34_WebAPI_CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-25T06:37:05.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\Models\\SchoolManagementContext.cs",
+              "RelativeDocumentMoniker": "34_WebAPI_CRUD\\Models\\SchoolManagementContext.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\Models\\SchoolManagementContext.cs",
+              "RelativeToolTip": "34_WebAPI_CRUD\\Models\\SchoolManagementContext.cs",
+              "ViewState": "AgIAAAQAAABwZWZmZmYkwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T06:34:46.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "34_WebAPI_CRUD\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\34_WebAPI_CRUD\\34_WebAPI_CRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "34_WebAPI_CRUD\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAACAAAACg//////8vwCgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T06:15:01.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

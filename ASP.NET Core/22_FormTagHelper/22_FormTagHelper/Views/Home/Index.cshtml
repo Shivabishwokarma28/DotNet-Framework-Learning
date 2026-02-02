@@ -1,0 +1,22 @@
+﻿@model _22_FormTagHelper.Models.User
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div  class="container">
+    <div class="row">
+     <div class="col-sm-4">
+            <form class="d-grid"  asp-controller="Home" asp-action="Index">
+                <input asp-for="Name" placeholder="User Name" class="form-control" />
+                <input asp-for="Email" placeholder="Email" class="form-control"/>
+                <input type="password" asp-for="Password" placeholder="Password" class="form-control"/>
+                <input type="submit" value="Submit" class="btn btn-outline-primary btn-block" />
+         </form>
+     </div>
+    </div>
+
+</div>

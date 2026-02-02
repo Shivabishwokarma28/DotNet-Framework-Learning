@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var emp = ViewData["DataEmp"] as List<Employee>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<table>
+    <tr>
+        <th>
+            EmpId
+        </th>
+        <th>EmpName</th>
+        <th>Designation</th>
+        <th>Salary</th>
+    </tr>
+    @{
+        foreach (var s in emp)
+        {
+            <tr>
+                <td>@(s.EmpID)</td>
+                <td>@(s.EmpName)</td>
+                <td>@(s.Designation)</td>
+                <td>@(s.Salary)</td>
+                
+
+            </tr>
+        }
+    }
+</table>

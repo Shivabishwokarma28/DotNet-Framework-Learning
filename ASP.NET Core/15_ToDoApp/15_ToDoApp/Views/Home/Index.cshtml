@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var task = ViewBag.task;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<style>
+    table {
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+    th, td {
+        border: 1px solid gray;
+        padding: 12px 25px;
+    }
+</style>
+
+<table>
+    <tr>
+        <th>Id  </th>
+        <th>Task</th>
+        <th>IsCompleted</th>
+    </tr>
+    @{
+        foreach(var t in task)
+        {
+            <tr>
+            <td>@t.Id</td>
+             <td>@t.Task</td>
+              <td>@(t.IsCompleted ?"Completed": "Pending")</td>
+            </tr>
+        }
+    }
+</table>

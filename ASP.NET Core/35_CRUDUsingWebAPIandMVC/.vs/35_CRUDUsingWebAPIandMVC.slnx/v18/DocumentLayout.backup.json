@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\35_crudusingwebapiandmvc\\35_crudusingwebapiandmvc\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|solutionrelative:35_crudusingwebapiandmvc\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\35_crudusingwebapiandmvc\\35_crudusingwebapiandmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|solutionrelative:35_crudusingwebapiandmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\35_crudusingwebapiandmvc\\35_crudusingwebapiandmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|solutionrelative:35_crudusingwebapiandmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\35_crudusingwebapiandmvc\\35_crudusingwebapiandmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|solutionrelative:35_crudusingwebapiandmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\35_crudusingwebapiandmvc\\35_crudusingwebapiandmvc\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|solutionrelative:35_crudusingwebapiandmvc\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\35_crudusingwebapiandmvc\\35_crudusingwebapiandmvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|solutionrelative:35_crudusingwebapiandmvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\35_crudusingwebapiandmvc\\35_crudusingwebapiandmvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|solutionrelative:35_crudusingwebapiandmvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\35_crudusingwebapiandmvc\\35_crudusingwebapiandmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|solutionrelative:35_crudusingwebapiandmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\35_crudusingwebapiandmvc\\35_crudusingwebapiandmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F002AB8C-3C22-44BD-BFDE-E784A5E19C3A}|35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC.csproj|solutionrelative:35_crudusingwebapiandmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAABQPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T10:54:58.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T10:34:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAByvScAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T09:56:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABcAAADAMTMzMzMbwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T09:00:42.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "35_CRUDUsingWebAPIandMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "35_CRUDUsingWebAPIandMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAIMzMzMzM9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T08:59:17.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Program.cs",
+              "RelativeDocumentMoniker": "35_CRUDUsingWebAPIandMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Program.cs",
+              "RelativeToolTip": "35_CRUDUsingWebAPIandMVC\\Program.cs",
+              "ViewState": "AgIAABUAAABAZmZmZmYkwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T08:58:01.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "35_CRUDUsingWebAPIandMVC\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAgMjMzMzMrwCUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T08:54:40.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "35_CRUDUsingWebAPIandMVC\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "35_CRUDUsingWebAPIandMVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAGQAAAAAu/////8PwG4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T08:31:11.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "35_CRUDUsingWebAPIandMVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\35_CRUDUsingWebAPIandMVC\\35_CRUDUsingWebAPIandMVC\\Models\\Student.cs",
+              "RelativeToolTip": "35_CRUDUsingWebAPIandMVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAQAAABALjMzMzMLwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T08:25:14.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

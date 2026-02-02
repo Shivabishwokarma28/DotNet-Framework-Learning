@@ -1,0 +1,97 @@
+﻿@model _31_LoginFormASPCore.Models.UserTbl
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+
+<h4>UserTbl</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @{
+            if (TempData["Success"]!= null)
+            {
+                <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                    <p style="color:grey"><strong>Register</strong> Successfully </p>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+                
+            }
+        }
+        @{
+            if(ViewBag.Message!=null)
+            {
+                <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                    <p style="color:red"><strong>Login</strong> Failed </p>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            }
+        }
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @* <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                <input asp-for="Gender" class="form-control" />
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div> *@
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+                @{
+                        if (ViewBag.ErrorEmail!=null)
+                        {
+                        <div>
+                            <p style="color:red"><strong>Invalid</strong> Email </p>
+                            
+                        </div>
+                        }
+                    }
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input type="password" asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+                @{
+                    if (ViewBag.ErrorPass != null)
+                    {
+                        <div>
+                            <p style="color:red"><strong>Incorrect</strong> Password </p>
+
+                        </div>
+                    }
+                }
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+        Not Register Yet? Click Here to <a  asp-controller="Home" asp-action="Register"> SignUp</a>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to Home</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

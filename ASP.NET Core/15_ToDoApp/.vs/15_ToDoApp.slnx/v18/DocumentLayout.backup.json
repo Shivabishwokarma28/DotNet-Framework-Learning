@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\15_ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8D0F06-AA99-CE32-0FBD-9FB64D4F7B63}|15_ToDoApp\\15_ToDoApp.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\15_todoapp\\15_todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB8D0F06-AA99-CE32-0FBD-9FB64D4F7B63}|15_ToDoApp\\15_ToDoApp.csproj|solutionrelative:15_todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8D0F06-AA99-CE32-0FBD-9FB64D4F7B63}|15_ToDoApp\\15_ToDoApp.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\15_todoapp\\15_todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8D0F06-AA99-CE32-0FBD-9FB64D4F7B63}|15_ToDoApp\\15_ToDoApp.csproj|solutionrelative:15_todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8D0F06-AA99-CE32-0FBD-9FB64D4F7B63}|15_ToDoApp\\15_ToDoApp.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\15_todoapp\\15_todoapp\\models\\todoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8D0F06-AA99-CE32-0FBD-9FB64D4F7B63}|15_ToDoApp\\15_ToDoApp.csproj|solutionrelative:15_todoapp\\models\\todoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8D0F06-AA99-CE32-0FBD-9FB64D4F7B63}|15_ToDoApp\\15_ToDoApp.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\15_todoapp\\15_todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8D0F06-AA99-CE32-0FBD-9FB64D4F7B63}|15_ToDoApp\\15_ToDoApp.csproj|solutionrelative:15_todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\15_ToDoApp\\15_ToDoApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "15_ToDoApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\15_ToDoApp\\15_ToDoApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "15_ToDoApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T16:52:39.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\15_ToDoApp\\15_ToDoApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "15_ToDoApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\15_ToDoApp\\15_ToDoApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "15_ToDoApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:47:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoApp.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\15_ToDoApp\\15_ToDoApp\\Models\\ToDoApp.cs",
+              "RelativeDocumentMoniker": "15_ToDoApp\\Models\\ToDoApp.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\15_ToDoApp\\15_ToDoApp\\Models\\ToDoApp.cs",
+              "RelativeToolTip": "15_ToDoApp\\Models\\ToDoApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:46:23.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\15_ToDoApp\\15_ToDoApp\\Program.cs",
+              "RelativeDocumentMoniker": "15_ToDoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\15_ToDoApp\\15_ToDoApp\\Program.cs",
+              "RelativeToolTip": "15_ToDoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:45:48.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

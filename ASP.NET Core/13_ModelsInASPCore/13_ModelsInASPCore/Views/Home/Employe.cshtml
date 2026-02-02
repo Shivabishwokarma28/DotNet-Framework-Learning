@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Employe";
+    var Emp = ViewBag.EmployeData;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<table>
+    <tr>
+        <th>Emp_Id</th>
+        <th>Emp_Name</th>
+        <th>Emp_Address</th>
+        
+
+
+    </tr>
+    @{
+        foreach (var std in Emp)
+        {
+            <tr>
+                <td>@std.Emp_Id</td>
+                <td>@std.Emp_Name</td>
+                <td>@std.Emp_Address</td>
+            </tr>
+        }
+    }
+</table>

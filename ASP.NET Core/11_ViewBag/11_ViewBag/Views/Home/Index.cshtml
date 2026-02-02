@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    //Layout = "~/Views/Home/Shared/_Layout.cshtml";
+    //Layout = "~/Views/Shared/_Layout2.cshtml";
+    // Layout = null;//If we don't want to use layout
+
+}
+
+<h2>Home page</h2>
+<h3>This is my home page</h3>
+@ViewBag.data1
+@{
+    foreach (var item in ViewBag.data2)
+    {
+        <h2>@item</h2>
+    }
+}
+<br />
+Accessing ViewData key by ViewBag
+<br />
+@ViewBag.data3;
+@*
+@ViewData["data1"]
+<br>
+@ViewData["data2"]
+<br>
+@ViewData["data3"]
+<br>
+@{
+    foreach (var a in (string[])ViewData["data4"])
+    {
+        <h4 style="align-items:end;color:steelblue; font-family:Algerian">@a</h4>
+    }
+}
+<h2>Games</h2>
+@{
+    foreach (var a in (List<string>)ViewData["data5"])
+    {
+        <h4 style="align-items:end;color:steelblue; font-family:Aparajita">@a</h4>
+    }
+}
+
+*@
+@{
+    foreach (var a in ViewBag.data5)
+    {
+        <h4 style="align-items:end;color:steelblue; font-family:Algerian">@a</h4>
+    }
+}

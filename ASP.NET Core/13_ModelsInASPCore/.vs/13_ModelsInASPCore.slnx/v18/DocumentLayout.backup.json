@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\views\\home\\employe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\views\\home\\employe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\13_modelsinaspcore\\13_modelsinaspcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3BD881C-6B67-4630-B839-99EC22211229}|13_ModelsInASPCore\\13_ModelsInASPCore.csproj|solutionrelative:13_modelsinaspcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "13_ModelsInASPCore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T15:32:52.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employe.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\Home\\Employe.cshtml",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Views\\Home\\Employe.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\Home\\Employe.cshtml",
+              "RelativeToolTip": "13_ModelsInASPCore\\Views\\Home\\Employe.cshtml",
+              "ViewState": "AgIAAAgAAACAMjMzMzMrwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T13:06:40.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Models\\Employee.cs",
+              "RelativeToolTip": "13_ModelsInASPCore\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:57:38.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "13_ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T12:36:11.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Models\\StudentModel.cs",
+              "RelativeToolTip": "13_ModelsInASPCore\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:22:31.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Program.cs",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Program.cs",
+              "RelativeToolTip": "13_ModelsInASPCore\\Program.cs",
+              "ViewState": "AgIAAAYAAABAMTMzMzMbwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:16:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "13_ModelsInASPCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T12:15:57.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "13_ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T12:15:51.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "13_ModelsInASPCore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:15:42.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "13_ModelsInASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\13_ModelsInASPCore\\13_ModelsInASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "13_ModelsInASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:15:32.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

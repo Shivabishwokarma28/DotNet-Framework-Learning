@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\09_viewstart\\09_viewstart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|solutionrelative:09_viewstart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\09_viewstart\\09_viewstart\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|solutionrelative:09_viewstart\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\09_viewstart\\09_viewstart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|solutionrelative:09_viewstart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\09_viewstart\\09_viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|solutionrelative:09_viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\09_viewstart\\09_viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|solutionrelative:09_viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\09_viewstart\\09_viewstart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|solutionrelative:09_viewstart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\09_viewstart\\09_viewstart\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|solutionrelative:09_viewstart\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\09_viewstart\\09_viewstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21885FE-7224-401A-6D94-B60BEC9C886E}|09_ViewStart\\09_ViewStart.csproj|solutionrelative:09_viewstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "09_ViewStart\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "09_ViewStart\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T16:51:36.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Program.cs",
+              "RelativeDocumentMoniker": "09_ViewStart\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Program.cs",
+              "RelativeToolTip": "09_ViewStart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:46:35.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Home\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "09_ViewStart\\Views\\Home\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Home\\_ViewStart.cshtml",
+              "RelativeToolTip": "09_ViewStart\\Views\\Home\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T16:43:32.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "09_ViewStart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "09_ViewStart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T16:42:48.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "09_ViewStart\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "09_ViewStart\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T16:40:16.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "09_ViewStart\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "09_ViewStart\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T16:39:44.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "09_ViewStart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "09_ViewStart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T16:39:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "09_ViewStart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\09_ViewStart\\09_ViewStart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "09_ViewStart\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:37:19.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
