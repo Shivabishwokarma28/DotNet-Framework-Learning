@@ -1,0 +1,10 @@
+SELECT * FROM Student;
+GO
+
+CREATE PROCEDURE GETStudent
+AS 
+BEGIN	
+SELECT St_Name FROM Student;
+END
+GO
+EXEC GETStudent;
