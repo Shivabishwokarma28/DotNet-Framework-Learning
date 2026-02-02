@@ -1,0 +1,22 @@
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\School Management select.exe
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\School Management select.deps.json
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\School Management select.runtimeconfig.json
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\School Management select.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\School Management select.pdb
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\School Management select.csproj.AssemblyReference.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\School Management select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\School Management select.AssemblyInfoInputs.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\School Management select.AssemblyInfo.cs
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\School Management select.csproj.CoreCompileInputs.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\School M.1840EE97.Up2Date
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\School Management select.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\refint\School Management select.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\School Management select.pdb
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\School Management select.genruntimeconfig.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\School Management select\obj\Debug\net8.0\ref\School Management select.dll

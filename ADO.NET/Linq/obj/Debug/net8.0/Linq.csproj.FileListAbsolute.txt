@@ -1,0 +1,14 @@
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\bin\Debug\net8.0\Linq.exe
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\bin\Debug\net8.0\Linq.deps.json
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\bin\Debug\net8.0\Linq.runtimeconfig.json
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\bin\Debug\net8.0\Linq.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\bin\Debug\net8.0\Linq.pdb
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\obj\Debug\net8.0\Linq.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\obj\Debug\net8.0\refint\Linq.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\obj\Debug\net8.0\Linq.pdb
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\33_ADO_Database_1\Linq\obj\Debug\net8.0\ref\Linq.dll
